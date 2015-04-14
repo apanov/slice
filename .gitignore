@@ -1,0 +1,7 @@
+.cproject
+.idea/
+.project
+CMakeLists.txt
+usr.bin/slice/slice
+usr.bin/slice/slice.o
+
